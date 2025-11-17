@@ -1,3 +1,0 @@
-class Spring {
-  String container;
-}
